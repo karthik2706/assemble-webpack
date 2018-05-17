@@ -13,7 +13,7 @@
   "author": "Ravi Roshan",
   "license": "MIT",
   "dependencies": {
-    "assemble": "0.6.0-beta.5",
+    "assemble": "^0.24.3",
     "chalk": "^2.3.0",
     "gulp-extname": "^0.2.2"
   }
